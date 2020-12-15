@@ -1,3 +1,4 @@
+# Time complexity: O(n); Space: O(n)
 def twoNumberSum(array, target):
     nums = {}
     for num in array:
